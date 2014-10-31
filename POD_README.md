@@ -20,7 +20,7 @@ it, simply add the following line to your Podfile:
 
 ## Author
 
-${USER_NAME}, ${USER_EMAIL}
+[Auth0](http://auth0.com)
 
 ## License
 
